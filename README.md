@@ -2,12 +2,15 @@
 
 ### Problema 01
 
-Generar una solución que implemente 3 funciones. Que permitan calcular el área de un cuadrado, área de un triángulo y área de un rectángulo. 
+Generar una solución que implemente 3 funciones. Que permitan calcular el área de un cuadrado, área de un triángulo y área de un rectángulo.
 
 Cada función debe solicitar los datos necesarios y devolver el valor correspondiente. Se debe invocar a las funciones desde un método principal. Si el usuario ingresa 1 se llama a la función obtenerAreaCuadrado; 2 se llama al función obtenerAreaTriangulo; 3 se llama al función obtenerAreaCuadrado.
-	* El área del cuadrado es igual a lado x lado x lado x lado
-	* El área del triángulo es igual a (base x altura)/2
-	* El área del rectángulo es igual a base x altura
+
+```
+El área del cuadrado es igual a lado x lado x lado x lado
+El área del triángulo es igual a (base x altura)/2
+El área del rectángulo es igual a base x altura
+```
 ***
 ### Problema 02
 Generar una función que tenga 4 parámetros de tipo decimal y devuelva el promedio cualitativo de los parámetros.
@@ -20,5 +23,9 @@ Si el promedio es:
 
 A la función se la debe llamar desde un método principal. Los parámetros necesarios para llamar a la función, deben ser ingresados solicitados al usuario.
 
-**En la función principal se debe imprimir los siguiente: El promedio de las notas: 10, 5, 8, 7 es Bueno **
+En la función principal se debe imprimir los siguiente:
+
+```
+El promedio de las notas: 10, 5, 8, 7 es Bueno **
+```
 ***
