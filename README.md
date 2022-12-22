@@ -26,6 +26,6 @@ A la función se la debe llamar desde un método principal. Los parámetros nece
 En la función principal se debe imprimir los siguiente:
 
 ```
-El promedio de las notas: 10, 5, 8, 7 es Bueno **
+El promedio de las notas: 10, 5, 8, 7 es Bueno
 ```
 ***
