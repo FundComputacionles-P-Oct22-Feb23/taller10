@@ -4,7 +4,7 @@
 
 Generar una solución que implemente 3 funciones. Que permitan calcular el área de un cuadrado, área de un triángulo y área de un rectángulo.
 
-Cada función debe solicitar los datos necesarios y devolver el valor correspondiente. Se debe invocar a las funciones desde un método principal. Si el usuario ingresa 1 se llama a la función obtenerAreaCuadrado; 2 se llama al función obtenerAreaTriangulo; 3 se llama al función obtenerAreaCuadrado.
+Cada función debe solicitar los datos necesarios y devolver el valor correspondiente. Se debe invocar a las funciones desde un método principal. Si el usuario ingresa 1 se llama a la función obtenerAreaCuadrado; 2  se llama al función obtenerAreaTriangulo; 3 se llama al función obtenerAreaCuadrado.
 
 ```
 El área del cuadrado es igual a lado x lado x lado x lado
